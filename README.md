@@ -25,3 +25,13 @@ Number of Rows and Columns: Indicate the number of rows and columns of the plots
 Offset Distance East: This is the distance between a plot and its eastern neighbor plot in meters.
 
 Offset Distance North: This is the distance between a plot and its northern neighbor plot in meters.
+![image](https://github.com/AliBgisrs/Plot-boundary-delineation/assets/109620013/efa21285-b7c6-4c41-bd9b-d2fcf2c27a27)
+
+
+Acknowledgments
+
+[I would like to express my sincere appreciation to my supervisor, Dr. Paulo Flores, from North Dakota State University (NDSU), for providing invaluable support and guidance throughout the development of this script. His expertise and encouragement have been instrumental in making this project possible].
+
+Contact
+
+[Aliasghar.bazrafkan@ndus.edu]
