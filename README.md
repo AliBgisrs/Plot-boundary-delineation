@@ -27,6 +27,7 @@ Offset Distance East: This is the distance between a plot and its eastern neighb
 Offset Distance North: This is the distance between a plot and its northern neighbor plot in meters.
 ![image](https://github.com/AliBgisrs/Plot-boundary-delineation/assets/109620013/efa21285-b7c6-4c41-bd9b-d2fcf2c27a27)
 
+![image](https://github.com/AliBgisrs/Plot-boundary-delineation/assets/109620013/6839f8a8-ac22-403c-ae82-d1e9026cfcd9)
 
 Acknowledgments
 
